@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+		/* section[id]
+		{
+			color:blue;
+		}
+		
+		#main-menu
+		{
+			color:red;
+		}	
+		h1.h1
+		{
+			color:pink;
+		}
+		 */
+		 
+		 /* input[type="submit"]
+		 {
+		 	color:red;
+		 } */
+		 
+		/*  header > section.h1 > nav + nav
+		 {
+		 	color:red;
+		 } */
+		 #lecture-search-form > form > fieldset > input[type="text"]
+		 {
+		 	color:red;
+		 }
